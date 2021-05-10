@@ -10,3 +10,7 @@ This folder will contain content related to a tensor and how manipulations to a 
  - Using maths operation.
  - Matrix multiplications.
  - Vector products.
+
+3. Tensor Indexing and Reshaping.
+ - How to indexing on a 1 dimensional Tensor.
+ - How different it is to perform indexing on Multi-Dimensional Tensor.
